@@ -1,11 +1,11 @@
 👋 Hi, I’m @kjrosendahl
 
-I am a second year AMAT / CS major located in Chicago. 
+I am a second year AMAT / CS major located in Chicago, IL. 
 
-For my classes and research projects, I am learning R and Racket.
+For my current classes and research projects, I am learning R, Racket, and SQL.
 
-Previously, I have worked with Java, Python, and MATLAB. 
+Previously, I have worked with Java, Python, MIPS, and MATLAB.
 
-Other than school, my hobbies include cooking, reading, writing, and exploring the city. 
+Oustide of academics, my hobbies include cooking, reading, writing, and exploring the city. 
 
 Find my linkedin at: https://www.linkedin.com/in/kaylee-rosendahl/ 
