@@ -1,10 +1,10 @@
 👋 Hi, I’m @kjrosendahl
 
-I am a second year AMAT / CS major located in Chicago, IL. 
+I am a third year AMAT / CS major located in Chicago. 
 
-For my current classes and research projects, I am learning R, Racket, and SQL.
+I am currently learning R for my research in parametic estimation and variable selection. 
 
-Previously, I have worked with Java, Python, MIPS, and MATLAB.
+Previously, I have worked with Java, Python, MIPS, SQL, Racket, and MATLAB. 
 
 Oustide of academics, I spend my time playing video games, cooking, reading, and exploring the city.
 
