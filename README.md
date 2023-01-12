@@ -2,9 +2,9 @@
 
 I am a third year AMAT / CS major located in Chicago. 
 
-I am currently learning R for my research in parametic estimation and variable selection. 
+Currently, I am indepedently studying HTML and CSS, learning about front-end web dev. 
 
-Previously, I have worked with Java, Python, MIPS, SQL, Racket, and MATLAB. 
+Previously, I have worked in Python, MATLAB, Java, SQL, Racket/Lisp, and R. 
 
 Oustide of academics, I spend my time playing video games, cooking, reading, and exploring the city.
 
