@@ -1,6 +1,6 @@
 👋 Hi, I’m @kjrosendahl
 
-I am a third year AMAT / CS major located in Chicago. 
+I am a fourth year AMAT / CS major located in Chicago. 
 
 Currently, I am indepedently studying HTML and CSS, learning about front-end web dev. 
 
