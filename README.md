@@ -1,9 +1,7 @@
 👋 Hi, I’m @kjrosendahl
 
-I'm a recent graduate from the Illinois Institute of Technology in Chicago, IL. I recieved an MS in Computer Science and a BS in Applied Mathematics.
+I'm currently an AI/ML Engineer for 66degrees in Chicago, IL. I recieved my Master's in Computer Science and Bachelor's in Applied Mathematics from the Illinois Institute of Technology. 
 
-Previously, I have worked in Python, MATLAB, Java, SQL, Racket/Lisp, and R. 
+Outside of work, I spend time cooking, reading, playing video games, watching movies, and exploring the city. 
 
-Oustide of work, I spend my time playing video games, cooking, reading, and exploring the city.
-
-Find my linkedin at: https://www.linkedin.com/in/kaylee-rosendahl/. Alternatively, read more about me at: http://kjrosendahl.com
+Find my LinkedIn at: https://www.linkedin.com/in/kaylee-rosendahl/. Alternatively, read more about me at: http://kjrosendahl.com
